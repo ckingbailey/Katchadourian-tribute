@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
 <!--This is made to use Foundation. I just started using GitHub and I don't know how to implement Foundation on here yet.-->
 <head>
 <!--this is the links to the CSS. Is this gonna work? I can't find a guide. I gotta get some help with this part. Gitter, here I come.-->
@@ -93,3 +97,4 @@
   </div>
 
 </div>
+</html>
